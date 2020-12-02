@@ -10,3 +10,4 @@ Another task from the Odin Project.
 * Practice multi page sites with react-router-dom
 * Practice storing and displaying data 
 * Practice retriving data from API
+* Learn how to use React-Bootstrap
