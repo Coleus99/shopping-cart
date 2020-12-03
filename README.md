@@ -11,3 +11,8 @@ Another task from the Odin Project.
 * Practice storing and displaying data 
 * Practice retriving data from API
 * Learn how to use React-Bootstrap
+
+## Potential Improvements
+* Product filters on Shop page
+* Collapse top nav to mobile menu for small screens
+* Add animation for visual feedback when item added to cart
