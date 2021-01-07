@@ -1,6 +1,6 @@
 ## Shopping Cart
 
-Another task from the Odin Project.
+Another task from the Odin Project. [See preview](https://coleus99.github.io/shopping-cart/)
 
 ## Objectives
 * Setup Multi page site
